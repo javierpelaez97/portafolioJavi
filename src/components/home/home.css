@@ -1,0 +1,16 @@
+.name {
+    color: rgb(255, 175, 3);
+}
+
+.img-fluid{
+     
+    min-width: 200px;
+    min-width: 200px; 
+    width: 200px;
+    height: 200px;
+}
+
+.space{
+ margin-top:200px ;
+ margin-bottom: 200px; 
+}

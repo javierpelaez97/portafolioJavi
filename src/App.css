@@ -2,7 +2,15 @@
     color: rgb(255, 175, 3);
 }
 
-.logo{
-    width: 300px;
-    height: 300px;
+.img-fluid{
+     
+    min-width: 200px;
+    min-width: 200px; 
+    width: 200px;
+    height: 200px;
+}
+
+.space{
+ margin-top:200px ;
+ margin-bottom: 200px; 
 }
