@@ -17,10 +17,13 @@ export default function Home() {
               desarrollador <span className="name">FullStack </span>Junior
               apasionado por el desarrollo web y la programación
             </h3>
-            <div>
-              <a href={cv} className="btn btn-light" download="cv">
-                Contactar
+            <hr></hr>
+            <div className="links">
+            
+              <a href={cv} className="btn btn-dark" download="cv">
+                Descargar CV
               </a>
+              <button className="btn btn-dark">Contactar</button>
             </div>
           </div>
           <div className="col">

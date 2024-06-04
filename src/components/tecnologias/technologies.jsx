@@ -23,6 +23,7 @@ export default function Technologies() {
               <path d="M20 4l-2 14.5l-6 2l-6 -2l-2 -14.5z" />
               <path d="M15.5 8h-7l.5 4h6l-.5 3.5l-2.5 .75l-2.5 -.75l-.1 -.5" />
             </svg>
+            <p className="text-center">HTML 5</p>
           </section>
           <section>
             <svg
@@ -41,7 +42,7 @@ export default function Technologies() {
               <path d="M20 4l-2 14.5l-6 2l-6 -2l-2 -14.5z" />
               <path d="M8.5 8h7l-4.5 4h4l-.5 3.5l-2.5 .75l-2.5 -.75l-.1 -.5" />
             </svg>
-            
+            <p className="text-center">CSS 3</p>
           </section>
           <section>
             <svg
@@ -65,6 +66,7 @@ export default function Technologies() {
               <path d="M8 12c.285 -.66 .607 -1.308 .968 -1.978c2.647 -4.844 6.253 -7.89 8.046 -6.801c1.11 .679 1.262 2.706 .56 5.393" />
               <path d="M12.26 12.015h-.01c-.01 .13 -.12 .24 -.26 .24a.263 .263 0 0 1 -.25 -.26c0 -.14 .11 -.25 .24 -.25h-.01c.13 -.01 .25 .11 .25 .24" />
             </svg>
+            <p className="text-center">React.js</p>
           </section>
           <section>
             <svg
@@ -84,6 +86,7 @@ export default function Technologies() {
               <path d="M2 12a2 2 0 0 1 2 2v4a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-4a2 2 0 0 1 2 -2" />
               <path d="M9 16v-8h3.5a2 2 0 1 1 0 4h-3.5h4a2 2 0 1 1 0 4h-4z" />
             </svg>
+            <p className="text-center">Bootstrap</p>
           </section>
           <section>
             <svg
@@ -102,6 +105,7 @@ export default function Technologies() {
               <path d="M9 9v8.044a2 2 0 0 1 -2.996 1.734l-1.568 -.9a3 3 0 0 1 -1.436 -2.561v-6.635a3 3 0 0 1 1.436 -2.56l6 -3.667a3 3 0 0 1 3.128 0l6 3.667a3 3 0 0 1 1.436 2.561v6.634a3 3 0 0 1 -1.436 2.56l-6 3.667a3 3 0 0 1 -3.128 0" />
               <path d="M17 9h-3.5a1.5 1.5 0 0 0 0 3h2a1.5 1.5 0 0 1 0 3h-3.5" />
             </svg>
+            <p className="text-center">Node.js</p>
           </section>
         </div>
       </div>

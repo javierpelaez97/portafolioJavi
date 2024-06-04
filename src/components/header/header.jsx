@@ -1,5 +1,6 @@
 import logoGitHub from "../../assets/logo-GitHub.png";
 import logoLinkedIn from "../../assets/logo-LinkedIn.png";
+import cv from "../../assets/Javier Peláez CV Español.pdf";
 import "./header.css";
 
 export default function Header() {
@@ -32,11 +33,11 @@ export default function Header() {
             </a>
           </div>
           <div className="col">
-            <button className="btn btn-dark">
+            <a href={cv} download="cv" className="btn btn-dark">
               Descargar CV{" "}
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="icon icon-tabler icon-tabler-arrow-big-down-lines-filled"
+                class=" icon-tabler icon-tabler-arrow-big-down-lines-filled"
                 width="20"
                 height="20"
                 viewBox="0 0 24 24"
@@ -63,7 +64,7 @@ export default function Header() {
                   fill="currentColor"
                 />
               </svg>
-            </button>
+            </a>
           </div>
         </div>
       </nav>
