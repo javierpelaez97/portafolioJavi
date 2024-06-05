@@ -1,0 +1,32 @@
+[
+    {
+        "image": "https://example.com/image1.jpg",
+        "title": "Proyecto de Diseño Web",
+        "description": "Un sitio web moderno y responsivo diseñado para una empresa de tecnología.",
+        "link": "https://example.com/proyecto-diseno-web"
+    },
+    {
+        "image": "https://example.com/image2.jpg",
+        "title": "Aplicación Móvil de Comercio Electrónico",
+        "description": "Una aplicación móvil intuitiva para compras en línea, con características avanzadas de búsqueda y filtrado.",
+        "link": "https://example.com/app-comercio-electronico"
+    },
+    {
+        "image": "https://example.com/image3.jpg",
+        "title": "Campaña de Marketing Digital",
+        "description": "Estrategia de marketing digital para aumentar la visibilidad de una marca en redes sociales.",
+        "link": "https://example.com/campana-marketing-digital"
+    },
+    {
+        "image": "https://example.com/image4.jpg",
+        "title": "Desarrollo de Software a Medida",
+        "description": "Solución de software personalizada para la gestión de inventarios en una empresa minorista.",
+        "link": "https://example.com/desarrollo-software-medida"
+    },
+    {
+        "image": "https://example.com/image5.jpg",
+        "title": "Rediseño de Identidad Corporativa",
+        "description": "Rediseño completo de la identidad corporativa para una empresa emergente, incluyendo logotipo y material de marketing.",
+        "link": "https://example.com/redisenio-identidad-corporativa"
+    }
+]

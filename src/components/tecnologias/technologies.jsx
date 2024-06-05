@@ -47,6 +47,26 @@ export default function Technologies() {
           <section>
             <svg
               xmlns="http://www.w3.org/2000/svg"
+              class="icon icon-tabler icon-tabler-brand-javascript"
+              width="44"
+              height="44"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="#ffec00"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+              <path d="M20 4l-2 14.5l-6 2l-6 -2l-2 -14.5z" />
+              <path d="M7.5 8h3v8l-2 -1" />
+              <path d="M16.5 8h-2.5a.5 .5 0 0 0 -.5 .5v3a.5 .5 0 0 0 .5 .5h1.423a.5 .5 0 0 1 .495 .57l-.418 2.93l-2 .5" />
+            </svg>
+            <p className="text-center">JavaScript</p>
+          </section>
+          <section>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
               class="icon icon-tabler icon-tabler-brand-react-native"
               width="20"
               height="20"
@@ -67,6 +87,26 @@ export default function Technologies() {
               <path d="M12.26 12.015h-.01c-.01 .13 -.12 .24 -.26 .24a.263 .263 0 0 1 -.25 -.26c0 -.14 .11 -.25 .24 -.25h-.01c.13 -.01 .25 .11 .25 .24" />
             </svg>
             <p className="text-center">React.js</p>
+          </section>
+          <section>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="icon icon-tabler icon-tabler-brand-angular"
+              width="44"
+              height="44"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="#fd0061"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+              <path d="M5.428 17.245l6.076 3.471a1 1 0 0 0 .992 0l6.076 -3.471a1 1 0 0 0 .495 -.734l1.323 -9.704a1 1 0 0 0 -.658 -1.078l-7.4 -2.612a1 1 0 0 0 -.665 0l-7.399 2.613a1 1 0 0 0 -.658 1.078l1.323 9.704a1 1 0 0 0 .495 .734z" />
+              <path d="M9 15l3 -8l3 8" />
+              <path d="M10 13h4" />
+            </svg>
+            <p className="text-center">Angular 17+</p>
           </section>
           <section>
             <svg

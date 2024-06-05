@@ -1,9 +1,14 @@
 
 
 export default function Proyects() {
-    return(
-        <>
-            <p>Esto es el apartado Proyects</p>
-        </>
-    )
+    return (
+      <>
+        <div className="container">
+          <h2>Proyectos</h2>
+          <div>
+            
+          </div>
+        </div>
+      </>
+    );
 }

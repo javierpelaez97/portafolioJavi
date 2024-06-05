@@ -6,7 +6,7 @@ import "./header.css";
 export default function Header() {
   return (
     <>
-      <nav className="container text-center ">
+      <nav className="container text-center row row-cols-auto">
         <div className="row row-cols-auto ">
           <div className="col">
             <a
@@ -67,6 +67,8 @@ export default function Header() {
             </a>
           </div>
         </div>
+        
+
       </nav>
     </>
   );

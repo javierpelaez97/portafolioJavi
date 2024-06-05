@@ -25,6 +25,7 @@ export default function Home() {
               </a>
               <button className="btn btn-dark">Contactar</button>
             </div>
+            
           </div>
           <div className="col">
             <img src={Logo} className="img-fluid"></img>
